@@ -5,7 +5,10 @@
 
 # 🔍 Basic Information
 ### 👨‍👩‍👧‍👦 프로젝트 개요
-안전하고 건강한 음주생활의 시작. **al-T(alcohol Tracker)**<br>멋쟁이 사자처럼 12기 중앙 해커톤 출품작
+안전하고 건강한 음주생활의 시작. **al-T(alcohol Tracker)**<br>멋쟁이사자처럼 12기 중앙 해커톤 출품작
+
+### 🏆 해커톤 주제
+**“IT 기술을 활용하여 현대인의 건강 (wellness) 문제를 해결할 수 있는 서비스를 개발하시오.”**
 
 ### 📅 프로젝트 기간 
 2024.7.6-2024.8.6
@@ -16,11 +19,11 @@
 |BE/Spring/팀장|BE/Python|BE/Python|BE/Python|FE/React|PM/Design|
 
 ### 서비스 환경
-웹앱
+Web APP
 
 # 📖 프로젝트 소개
 
-**al-T**는 사용자들이 더 현명하고 안전하게 음주를 관리할 수 있도록 돕기 위해 개발된 혁신적인 웹 기반 애플리케이션입니다. 이 프로젝트는 [조직명]에서 개발했으며, 주된 목표는 [주요 목표나 목적]입니다.
+**al-T**는 사용자들이 더 현명하고 안전하게 또 재밌게 음주를 관리할 수 있도록 돕기 위해 개발한 웹 기반 애플리케이션입니다.
 
 ### 🌟 주요 목표:
 
@@ -32,24 +35,21 @@
 
 이 프로젝트는 [특정 문제나 요구]에 대한 대응으로 [연도]에 시작되었습니다. 주된 목표는 [해당 솔루션이 수행하는 역할에 대한 설명]을 제공하는 것이었습니다. 개발 과정에서 팀은 [성능, 확장성, 사용자 친화성 등과 같은 주요 개발 요소들]에 중점을 두고 진행했습니다.
 
-### 📝 사용된 기술 및 소프트웨어
+### ✨ 프로젝트 구현 기능
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  
-
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/java-FF81F9?style=flat-square"/>  <img src="https://img.shields.io/badge/JSONWebToken-000000?style=flat-square&logo=JsonWebToken&logoColor=white"/>  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-
-## ✨ 프로젝트 구현 기능
-
-- 기능 1: [주요 기능에 대한 상세 설명].
-- 기능 2: [사용자에게 혜택을 주는 또 다른 중요한 기능에 대한 설명].
-- 기능 3: [프로젝트에 가치를 더하는 추가 기능들에 대한 설명].
+- 기능 1: 혈중 알코올 농도(BAC: Blood Alcohol Concentration) 예측 및 측정
+- 기능 2: 술친구, 술자리 만들기 시스템
+- 기능 3: 마이페이지
+- 기능 4: 음주 기록 관리 시스템
+- 기능 5: 소셜 로그인 기능
+  
+![image](https://github.com/user-attachments/assets/4382e8fd-814e-47da-9a54-19edc7c3fe76)
+![image](https://github.com/user-attachments/assets/02f42e9c-7411-4356-af1a-152fb97ce7c7)
 
 ---
 
 # 📖 Project Technologies
-### 📝 Technologies & Software Used
+### 📝 사용된 기술 및 소프트웨어
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  
 
