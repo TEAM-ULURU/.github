@@ -66,9 +66,9 @@ Web APP
 ![image](https://github.com/user-attachments/assets/e4a573e0-9fe5-4445-bd75-3e662ac5fc2d)
 
 ### 📜 Server Domain(현재는 사용할 수 없음)
-Front: https://alt-web.run.goorm.io
-Back(Fast-API): https://brave-ariela-davidlee-c2a7ce37.koyeb.app
-Back(Spring): https://alt-backend.com
+- Front: https://alt-web.run.goorm.io
+- Back(Fast-API): https://brave-ariela-davidlee-c2a7ce37.koyeb.app
+- Back(Spring): https://alt-backend.com
 
 ### 📜 ERD Table
 
