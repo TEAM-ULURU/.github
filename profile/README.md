@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/edc7c084-6c25-4681-a5e5-369cd30948cd)
 
 
-# 🔍 Basic Information
+# 🔍 기본 정보
 ### 🚀 프로젝트 개요
 안전하고 건강한 음주생활의 시작. **al-T(alcohol Tracker)**<br>멋쟁이사자처럼 12기 중앙 해커톤 출품작
 
