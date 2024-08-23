@@ -70,10 +70,6 @@ Web APP
 - Back(Fast-API): https://brave-ariela-davidlee-c2a7ce37.koyeb.app
 - Back(Spring): https://alt-backend.com
 
-### 📜 ERD Table
-
-### 📋 API Table
-
 
 
 
