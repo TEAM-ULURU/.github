@@ -67,7 +67,7 @@ Web APP
 
 ### 📜 Server Domain(현재는 사용할 수 없음)
 - Front: https://alt-web.run.goorm.io
-- Back(Fast-API): https://brave-ariela-davidlee-c2a7ce37.koyeb.app
+- Back(Fast-API): https://brave-ariela-davidlee-c2a7ce37.koyeb.app/docs
 - Back(Spring): https://alt-backend.com
 
 
